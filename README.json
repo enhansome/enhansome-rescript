@@ -388,8 +388,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:20:51.393Z",
+    "last_updated": "2026-08-19T12:53:56.631Z",
     "original_repository": "rescript-lang/awesome-rescript",
+    "original_repository_id": 395642331,
     "original_repository_sha": "677d9ed3f76c755628970eeaecee58096030b6be",
     "enhanced_repository": "enhansome/enhansome-rescript",
     "enhanced_repository_description": null,

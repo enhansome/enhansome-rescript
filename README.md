@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,463 | 🐛 105 | 📅 2026-08-21
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,816 | 🐛 105 | 📅 2026-08-21
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,463 | 🐛 105 | 📅 2026-08-21 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,816 | 🐛 105 | 📅 2026-08-21 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,475 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -171,7 +171,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 * [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) ⭐ 33 | 🐛 26 | 🌐 ReScript | 📅 2024-06-11 - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
 * [Pomodoro](https://github.com/tkovs/pomodoro) ⭐ 23 | 🐛 0 | 🌐 ReScript | 📅 2021-05-15 - Simple pomodoro application. Written in ReScript and ReactJS. [(demo)](https://pomodoro.tkovs.com)
 * [Fire Emblem Chess](https://github.com/yangdanny97/fire-emblem-chess) ⭐ 14 | 🐛 0 | 🌐 ReScript | 📅 2026-05-15 - A pass & play chess game using ReScript, D3, and Howler [(demo)](https://yangdanny97.github.io/fire-emblem-chess/)
-* [ReTurbo](https://github.com/RawToast/ReTurbo) ⭐ 12 | 🐛 2 | 🌐 ReScript | 📅 2024-04-03 - Pseudo 3D racing game built with Reprocessing [(demo)](https://pale-potato.surge.sh/)
+* [ReTurbo](https://github.com/RawToast/ReTurbo) ⭐ 12 | 🐛 2 | 🌐 ReScript | 📅 2026-08-28 - Pseudo 3D racing game built with Reprocessing [(demo)](https://pale-potato.surge.sh/)
 * [rescript-intro](https://github.com/mellson/rescript-intro) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2025-06-02 - A calculator Using ReScript, React + Tailwind.
 * [Pick a color](https://github.com/eldh/pick-a-color) ⭐ 7 | 🐛 0 | 🌐 ReScript | 📅 2021-10-20 - A modern color picker based on the LCH color model. Utilizes React concurrent mode. [(demo)](https://eldh.github.io/pick-a-color)
 * [Rock, Paper, Scissors](https://github.com/Nicolas1st/net-cli-rock-paper-scissors) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-22 - A "Rock, Paper, Scissors" CLI game consisting of a server (written in Golang) and a client (ReScript).
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

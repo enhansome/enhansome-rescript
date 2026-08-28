@@ -18,7 +18,8 @@
                 "owner": "rescriptbr",
                 "repo": "rescript-bindings-cookbook",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "protoship",
                 "repo": "rescript-tutorial",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "ryyppy",
                 "repo": "rescript-nextjs-template",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "rescript-lang",
                 "repo": "create-rescript-app",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "tom-sherman",
                 "repo": "rescript-remix-template",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "nyinyithann",
                 "repo": "rescript-react-webpack-tailwind-template",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             }
           ],
           "description": null,
@@ -124,7 +130,8 @@
                     "owner": "giraud",
                     "repo": "reasonml-idea-plugin",
                     "stars": 349
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:39:18.502Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "rescript-lang",
                     "repo": "vim-rescript",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:39:18.502Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "reasonml-editor",
                     "repo": "reason-mode",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:39:18.502Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "rescript-lang",
                     "repo": "rescript-zed",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:39:18.502Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "rescript-lang",
                     "repo": "rescript-sublime",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:39:18.502Z"
                 }
               ],
               "description": null,
@@ -211,7 +222,8 @@
                 "owner": "jihchi",
                 "repo": "rescript-react-realworld-example-app",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "johnridesabike",
                 "repo": "coronate",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "darklang",
                 "repo": "classic-dark",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "alanrsoares",
                 "repo": "rescript-game-of-life",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "pixelpapercraft",
                 "repo": "pixel-papercraft-generator-builder",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "tkovs",
                 "repo": "pomodoro",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "yangdanny97",
                 "repo": "fire-emblem-chess",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -312,11 +330,12 @@
                 "archived": false,
                 "id": 206898450,
                 "language": "ReScript",
-                "last_commit": "2024-04-03T18:14:38Z",
+                "last_commit": "2026-08-28T05:11:40Z",
                 "owner": "RawToast",
                 "repo": "ReTurbo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "mellson",
                 "repo": "rescript-intro",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "eldh",
                 "repo": "pick-a-color",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "Nicolas1st",
                 "repo": "net-cli-rock-paper-scissors",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "nyinyithann",
                 "repo": "bioscopes",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:39:18.502Z"
             }
           ],
           "description": null,
@@ -388,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:26:20.514Z",
+    "last_updated": "2026-08-28T19:39:18.502Z",
     "original_repository_info": {
       "archived": false,
       "id": 395642331,

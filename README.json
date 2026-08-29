@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task-oriented guide to writing JavaScript bindings for ReScript",
+                "homepage": null,
                 "id": 400671718,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-08-28T03:39:28Z",
+                "open_issues": 0,
                 "owner": "rescriptbr",
                 "repo": "rescript-bindings-cookbook",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hands-on tutorial for web developers new to typed functional programming. Master ReScript's core concepts like immutability, type inference, variants, and modules to build robust apps.",
+                "homepage": null,
                 "id": 321613232,
                 "language": "ReScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-21T16:00:41Z",
+                "open_issues": 4,
                 "owner": "protoship",
                 "repo": "rescript-tutorial",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Boilerplate for NextJS, Tailwind and ReScript",
+                "homepage": "https://nextjs-default.ryyppy.now.sh",
                 "id": 189884199,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-28T20:45:07Z",
+                "open_issues": 16,
                 "owner": "ryyppy",
                 "repo": "rescript-nextjs-template",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -67,12 +82,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "npm create rescript-app@latest",
+                "homepage": "https://www.npmjs.com/package/create-rescript-app",
                 "id": 407049958,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2026-05-06T09:56:46Z",
+                "open_issues": 9,
                 "owner": "rescript-lang",
                 "repo": "create-rescript-app",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "react",
+                  "rescript",
+                  "rescript-react",
+                  "template",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -83,12 +109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remix and ReScript in harmony",
+                "homepage": null,
                 "id": 440153342,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2022-01-10T21:43:54Z",
+                "open_issues": 2,
                 "owner": "tom-sherman",
                 "repo": "rescript-remix-template",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -99,12 +130,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Boilerplate of RescriptReact + TailwindCSS + Webpack",
+                "homepage": "https://rescript-react-webpack-tailwind-template.vercel.app",
                 "id": 363575718,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2022-11-23T06:56:55Z",
+                "open_issues": 0,
                 "owner": "nyinyithann",
                 "repo": "rescript-react-webpack-tailwind-template",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "react",
+                  "rescript",
+                  "rescript-react",
+                  "tailwindcss",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             }
@@ -124,12 +166,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ReasonML Language Plugin for IDEA",
+                    "homepage": "https://giraud.github.io/reasonml-idea-plugin/",
                     "id": 79930515,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-02-17T17:00:54Z",
+                    "open_issues": 28,
                     "owner": "giraud",
                     "repo": "reasonml-idea-plugin",
-                    "stars": 349
+                    "stars": 349,
+                    "topics": [
+                      "idea-plugin",
+                      "intellij",
+                      "ocaml",
+                      "plugin",
+                      "reason",
+                      "reasonml",
+                      "rescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
                 },
@@ -140,12 +195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 288295668,
                     "language": "Vim Script",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T18:33:25Z",
+                    "open_issues": 13,
                     "owner": "rescript-lang",
                     "repo": "vim-rescript",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
                 },
@@ -156,12 +216,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Emacs major mode for working with ReasonML",
+                    "homepage": null,
                     "id": 90563409,
                     "language": "Emacs Lisp",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-04-05T05:17:39Z",
+                    "open_issues": 16,
                     "owner": "reasonml-editor",
                     "repo": "reason-mode",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "emacs",
+                      "ocaml",
+                      "reasonml"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
                 },
@@ -172,12 +241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ReScript support for Zed editor",
+                    "homepage": null,
                     "id": 788147988,
                     "language": "Tree-sitter Query",
+                    "license": "MIT",
                     "last_commit": "2026-05-09T17:41:27Z",
+                    "open_issues": 3,
                     "owner": "rescript-lang",
                     "repo": "rescript-zed",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
                 },
@@ -188,12 +262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Sublime Text plugin for ReScript.",
+                    "homepage": null,
                     "id": 289496179,
                     "language": "ReScript",
+                    "license": "MIT",
                     "last_commit": "2021-05-16T10:23:49Z",
+                    "open_issues": 1,
                     "owner": "rescript-lang",
                     "repo": "rescript-sublime",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
                 }
@@ -216,12 +295,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An exemplary real-world application built using ReScript and React",
+                "homepage": "https://rescript-react-realworld-example-app.vercel.app",
                 "id": 118860948,
                 "language": "ReScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T09:05:05Z",
+                "open_issues": 2,
                 "owner": "jihchi",
                 "repo": "rescript-react-realworld-example-app",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "bucklescript",
+                  "react",
+                  "reason-react",
+                  "reasonml",
+                  "rescript",
+                  "rescript-react"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -232,12 +323,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swiss-style chess tournament management app.",
+                "homepage": "https://coronate.netlify.app/",
                 "id": 176090008,
                 "language": "ReScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-25T22:13:19Z",
+                "open_issues": 9,
                 "owner": "johnridesabike",
                 "repo": "coronate",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "chess",
+                  "react",
+                  "rescript",
+                  "swiss-system",
+                  "tournament",
+                  "tournament-manager",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -248,12 +352,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Darklang stable version - currently on darklang.com/classic",
+                "homepage": "https://darklang.com/classic",
                 "id": 607313469,
                 "language": "ReScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-05T16:06:04Z",
+                "open_issues": 11,
                 "owner": "darklang",
                 "repo": "classic-dark",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "editor"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -264,12 +375,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game of Life in ReasonML with ReasonReact in 2020",
+                "homepage": "https://alanrsoares.github.io/rescript-game-of-life/",
                 "id": 257586905,
                 "language": "ReScript",
+                "license": "MIT",
                 "last_commit": "2024-03-15T03:40:03Z",
+                "open_issues": 4,
                 "owner": "alanrsoares",
                 "repo": "rescript-game-of-life",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "game-of-life",
+                  "reasonml",
+                  "rescript"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -280,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generator builder for Pixel Papercraft.",
+                "homepage": "https://www.pixelpapercraft.com/print",
                 "id": 376392902,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2024-06-11T03:09:29Z",
+                "open_issues": 26,
                 "owner": "pixelpapercraft",
                 "repo": "pixel-papercraft-generator-builder",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -296,12 +421,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple pomodoro application. Written in ReScript and ReactJS.",
+                "homepage": "http://pomodoro.tkovs.com",
                 "id": 307115403,
                 "language": "ReScript",
+                "license": "MIT",
                 "last_commit": "2021-05-15T18:21:28Z",
+                "open_issues": 0,
                 "owner": "tkovs",
                 "repo": "pomodoro",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bucklescript",
+                  "pomodoro",
+                  "react",
+                  "react-testing-library",
+                  "reactjs",
+                  "reasonml",
+                  "rescripts"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -312,12 +450,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fire Emblem themed pass & play browser chess game, implemented in ReScript",
+                "homepage": "https://yangdanny97.github.io/fire-emblem-chess",
                 "id": 337926826,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2026-05-15T05:33:53Z",
+                "open_issues": 0,
                 "owner": "yangdanny97",
                 "repo": "fire-emblem-chess",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "chess",
+                  "d3",
+                  "d3js",
+                  "fireemblem",
+                  "game",
+                  "games",
+                  "howler",
+                  "javascript",
+                  "ocaml",
+                  "reasonml",
+                  "rescript"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -328,12 +483,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pseudo 3D racing game built with Reprocessing",
+                "homepage": "http://pale-potato.surge.sh",
                 "id": 206898450,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2026-08-28T05:11:40Z",
+                "open_issues": 2,
                 "owner": "RawToast",
                 "repo": "ReTurbo",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "game",
+                  "pseudo-3d-game",
+                  "reasonml",
+                  "reprocessing"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -344,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for ReScript intro workshop",
+                "homepage": null,
                 "id": 384878194,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-02T14:03:30Z",
+                "open_issues": 5,
                 "owner": "mellson",
                 "repo": "rescript-intro",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -360,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern color picker",
+                "homepage": null,
                 "id": 418244584,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2021-10-20T07:19:59Z",
+                "open_issues": 0,
                 "owner": "eldh",
                 "repo": "pick-a-color",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -376,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 502327599,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-12-22T17:02:04Z",
+                "open_issues": 0,
                 "owner": "Nicolas1st",
                 "repo": "net-cli-rock-paper-scissors",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             },
@@ -392,12 +572,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browse movies and people",
+                "homepage": "https://bioscopes.fun/",
                 "id": 560968551,
                 "language": "ReScript",
+                "license": null,
                 "last_commit": "2022-11-21T07:04:15Z",
+                "open_issues": 0,
                 "owner": "nyinyithann",
                 "repo": "bioscopes",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "react",
+                  "rescript"
+                ]
               },
               "first_seen": "2026-08-28T19:39:18.502Z"
             }
@@ -411,15 +599,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:39:18.502Z",
+    "last_updated": "2026-08-29T04:52:39.818Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of materials about the ReScript programming language and toolchain.",
+      "homepage": null,
       "id": 395642331,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-15T16:45:13Z",
+      "open_issues": 0,
       "owner": "rescript-lang",
       "repo": "awesome-rescript",
-      "stars": 203
+      "stars": 203,
+      "topics": [
+        "awesome-list",
+        "rescript"
+      ]
     },
     "original_repository_sha": "677d9ed3f76c755628970eeaecee58096030b6be",
     "enhanced_repository": "enhansome/enhansome-rescript",

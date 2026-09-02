@@ -204,7 +204,7 @@
                     "open_issues": 13,
                     "owner": "rescript-lang",
                     "repo": "vim-rescript",
-                    "stars": 162,
+                    "stars": 163,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:49:20.576Z",
+    "last_updated": "2026-09-02T12:19:10.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

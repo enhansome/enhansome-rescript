@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,223 | 🐛 105 | 📅 2026-09-02
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,573 | 🐛 105 | 📅 2026-09-02
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,223 | 🐛 105 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,573 | 🐛 105 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,475 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -105,7 +105,7 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 [ReScript Package Index](https://rescript-lang.org/packages)
 To discover libraries and bindings for ReScript, please use the [official package index tool](https://rescript-lang.org/packages). Libraries with the `rescript` keyword in their `package.json` will appear there, as well as manually added resources. If you happen to find no bindings for a library, please ask for it on the [forum](\(https://forum.rescript-lang.org\)). Chances are that somebody already wrote them, but kept them private, because maintaining a full set of bindings is always harder than tweaking them to one's specific needs.
 
-If no bindings exist yet, you can generate a starting point from the library's TypeScript types with [rescript-bindgen](https://github.com/juspay/rescript-bindgen) ⭐ 8 | 🐛 11 | 🌐 ReScript | 📅 2026-09-02 — a deterministic `.d.ts` → ReScript binding generator (type-safe, no `%identity`), which you then tweak to your needs.
+If no bindings exist yet, you can generate a starting point from the library's TypeScript types with [rescript-bindgen](https://github.com/juspay/rescript-bindgen) ⭐ 8 | 🐛 11 | 🌐 ReScript | 📅 2026-09-03 — a deterministic `.d.ts` → ReScript binding generator (type-safe, no `%identity`), which you then tweak to your needs.
 
 ### Templates and Boilerplates
 
@@ -134,7 +134,7 @@ If no bindings exist yet, you can generate a starting point from the library's T
 
 #### Snippets in VSCode
 
-The official snippets included with the ReScript-VSCode extension are available [here](https://github.com/rescript-lang/rescript-vscode/blob/master/snippets.json) ⭐ 354 | 🐛 168 | 🌐 ReScript | 📅 2026-08-15. You don't need to do anything to activate them; the extension already installs them.
+The official snippets included with the ReScript-VSCode extension are available [here](https://github.com/rescript-lang/rescript-vscode/blob/master/snippets.json) ⭐ 355 | 🐛 168 | 🌐 ReScript | 📅 2026-08-15. You don't need to do anything to activate them; the extension already installs them.
 
 But you can also add your snippets if you want to. You can add them as user snippets or in a workspace through a `rescript.code-snippets` file in the `.vscode` folder in the root of your workspace / project. See an example of some user snippets [here](rescript.code-snippets). Read more about snippets in VSCode [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
@@ -171,7 +171,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 * [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) ⭐ 33 | 🐛 26 | 🌐 ReScript | 📅 2024-06-11 - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
 * [Pomodoro](https://github.com/tkovs/pomodoro) ⭐ 23 | 🐛 0 | 🌐 ReScript | 📅 2021-05-15 - Simple pomodoro application. Written in ReScript and ReactJS. [(demo)](https://pomodoro.tkovs.com)
 * [Fire Emblem Chess](https://github.com/yangdanny97/fire-emblem-chess) ⭐ 14 | 🐛 0 | 🌐 ReScript | 📅 2026-05-15 - A pass & play chess game using ReScript, D3, and Howler [(demo)](https://yangdanny97.github.io/fire-emblem-chess/)
-* [ReTurbo](https://github.com/RawToast/ReTurbo) ⭐ 12 | 🐛 2 | 🌐 ReScript | 📅 2026-08-28 - Pseudo 3D racing game built with Reprocessing [(demo)](https://pale-potato.surge.sh/)
+* [ReTurbo](https://github.com/RawToast/ReTurbo) ⭐ 12 | 🐛 2 | 🌐 ReScript | 📅 2026-09-02 - Pseudo 3D racing game built with Reprocessing [(demo)](https://pale-potato.surge.sh/)
 * [rescript-intro](https://github.com/mellson/rescript-intro) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2025-06-02 - A calculator Using ReScript, React + Tailwind.
 * [Pick a color](https://github.com/eldh/pick-a-color) ⭐ 7 | 🐛 0 | 🌐 ReScript | 📅 2021-10-20 - A modern color picker based on the LCH color model. Utilizes React concurrent mode. [(demo)](https://eldh.github.io/pick-a-color)
 * [Rock, Paper, Scissors](https://github.com/Nicolas1st/net-cli-rock-paper-scissors) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-22 - A "Rock, Paper, Scissors" CLI game consisting of a server (written in Golang) and a client (ReScript).
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

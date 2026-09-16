@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,220 | 🐛 106 | 📅 2026-09-02
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,578 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,220 | 🐛 106 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,578 | 🐛 106 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,473 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -110,7 +110,7 @@ If no bindings exist yet, you can generate a starting point from the library's T
 ### Templates and Boilerplates
 
 * [Next.js](https://github.com/ryyppy/rescript-nextjs-template) ⭐ 404 | 🐛 16 | 🌐 JavaScript | 📅 2023-02-28 by [@ryyppy](https://github.com/ryyppy)
-* [create-rescript-app](https://github.com/rescript-lang/create-rescript-app) ⭐ 77 | 🐛 9 | 🌐 ReScript | 📅 2026-05-06
+* [create-rescript-app](https://github.com/rescript-lang/create-rescript-app) ⭐ 77 | 🐛 9 | 🌐 ReScript | 📅 2026-09-16
 * [Remix](https://github.com/tom-sherman/rescript-remix-template) ⭐ 29 | 🐛 2 | 🌐 ReScript | 📅 2022-01-10 by [@tom-sherman](https://github.com/tom-sherman)
 * [RescriptReact + TailwindCSS + Webpack](https://github.com/nyinyithann/rescript-react-webpack-tailwind-template) ⭐ 4 | 🐛 0 | 🌐 ReScript | 📅 2022-11-23 by [@nyinyithann](https://github.com/nyinyithann)
 
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

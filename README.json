@@ -357,8 +357,8 @@
                 "id": 607313469,
                 "language": "ReScript",
                 "license": "Apache-2.0",
-                "last_commit": "2025-08-05T16:06:04Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-21T03:48:43Z",
+                "open_issues": 9,
                 "owner": "darklang",
                 "repo": "classic-dark",
                 "stars": 69,
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:40:07.705Z",
+    "last_updated": "2026-09-21T14:35:30.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

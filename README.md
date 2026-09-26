@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,229 | 🐛 107 | 📅 2026-09-02
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,719 | 🐛 107 | 📅 2026-09-02
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,229 | 🐛 107 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,719 | 🐛 107 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,473 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -120,7 +120,7 @@ If no bindings exist yet, you can generate a starting point from the library's T
 
 #### General ReScript language support
 
-* [IDEA](https://github.com/giraud/reasonml-idea-plugin) ⭐ 349 | 🐛 28 | 🌐 Java | 📅 2026-02-17
+* [IDEA](https://github.com/giraud/reasonml-idea-plugin) ⭐ 348 | 🐛 28 | 🌐 Java | 📅 2026-02-17
 * [VIM-ReScript](https://github.com/rescript-lang/vim-rescript) ⭐ 164 | 🐛 13 | 🌐 Vim Script | 📅 2026-08-08
 * [Emacs](https://github.com/reasonml-editor/reason-mode) ⭐ 121 | 🐛 16 | 🌐 Emacs Lisp | 📅 2023-04-05
 * [Zed](https://github.com/humaans/rescript-zed) ⭐ 27 | 🐛 3 | 🌐 Tree-sitter Query | 📅 2026-05-09
@@ -134,7 +134,7 @@ If no bindings exist yet, you can generate a starting point from the library's T
 
 #### Snippets in VSCode
 
-The official snippets included with the ReScript-VSCode extension are available [here](https://github.com/rescript-lang/rescript-vscode/blob/master/snippets.json) ⭐ 354 | 🐛 168 | 🌐 ReScript | 📅 2026-09-10. You don't need to do anything to activate them; the extension already installs them.
+The official snippets included with the ReScript-VSCode extension are available [here](https://github.com/rescript-lang/rescript-vscode/blob/master/snippets.json) ⭐ 355 | 🐛 168 | 🌐 ReScript | 📅 2026-09-10. You don't need to do anything to activate them; the extension already installs them.
 
 But you can also add your snippets if you want to. You can add them as user snippets or in a workspace through a `rescript.code-snippets` file in the `.vscode` folder in the root of your workspace / project. See an example of some user snippets [here](rescript.code-snippets). Read more about snippets in VSCode [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

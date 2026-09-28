@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,235 | 🐛 106 | 📅 2026-09-02
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,875 | 🐛 106 | 📅 2026-09-02
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,235 | 🐛 106 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,875 | 🐛 106 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,473 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -165,7 +165,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 ### Example Apps
 
 * [ReScript RealWorld example app](https://github.com/jihchi/rescript-react-realworld-example-app) ⭐ 193 | 🐛 2 | 🌐 ReScript | 📅 2026-04-25 - Another Medium.com clone written using ReScript-React. [(demo)](https://rescript-react-realworld-example-app.vercel.app/)
-* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 11 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://coronate.netlify.app/)
+* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 175 | 🐛 10 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://coronate.netlify.app/)
 * [Darklang Editor](https://github.com/darklang/classic-dark/tree/main/client) ⭐ 69 | 🐛 9 | 🌐 ReScript | 📅 2026-09-21 - A programming language, editor, and cloud environment. The editor is in ReScript.
 * [ReScript Game of Life](https://github.com/alanrsoares/rescript-game-of-life) ⭐ 39 | 🐛 4 | 🌐 ReScript | 📅 2024-03-15 - Conway's Game of Life written in ReScript using ReScript-React. [(demo)](https://alanrsoares.github.io/reason-game-of-life/)
 * [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) ⭐ 33 | 🐛 26 | 🌐 ReScript | 📅 2024-06-11 - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

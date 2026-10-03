@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Bindings cookbook by ReScriptBR",
-              "description": null,
+              "description": "rescriptbr/rescript-bindings-cookbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "ReScript Tutorial by protoship.io",
-              "description": null,
+              "description": "protoship/rescript-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "create-rescript-app",
-              "description": null,
+              "description": "rescript-lang/create-rescript-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
                 {
                   "node_type": "item",
                   "title": "IDEA",
-                  "description": null,
+                  "description": "giraud/reasonml-idea-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -191,7 +191,7 @@
                 {
                   "node_type": "item",
                   "title": "VIM-ReScript",
-                  "description": null,
+                  "description": "rescript-lang/vim-rescript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -212,7 +212,7 @@
                 {
                   "node_type": "item",
                   "title": "Emacs",
-                  "description": null,
+                  "description": "reasonml-editor/reason-mode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -237,7 +237,7 @@
                 {
                   "node_type": "item",
                   "title": "Zed",
-                  "description": null,
+                  "description": "rescript-lang/rescript-zed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -258,7 +258,7 @@
                 {
                   "node_type": "item",
                   "title": "ReScript-Sublime",
-                  "description": null,
+                  "description": "rescript-lang/rescript-sublime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:12:09.711Z",
+    "last_updated": "2026-10-03T05:06:08.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

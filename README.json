@@ -332,7 +332,7 @@
                 "open_issues": 10,
                 "owner": "johnridesabike",
                 "repo": "coronate",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "chess",
                   "react",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:20:00.810Z",
+    "last_updated": "2026-10-14T13:08:03.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

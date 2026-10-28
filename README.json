@@ -91,7 +91,7 @@
                 "open_issues": 4,
                 "owner": "rescript-lang",
                 "repo": "create-rescript-app",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "react",
                   "rescript",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:40:30.534Z",
+    "last_updated": "2026-10-28T14:34:35.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

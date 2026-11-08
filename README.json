@@ -201,7 +201,7 @@
                     "language": "Vim Script",
                     "license": "MIT",
                     "last_commit": "2026-08-08T18:33:25Z",
-                    "open_issues": 13,
+                    "open_issues": 12,
                     "owner": "rescript-lang",
                     "repo": "vim-rescript",
                     "stars": 164,
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:26:24.146Z",
+    "last_updated": "2026-11-08T14:35:32.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",
@@ -611,7 +611,7 @@
       "open_issues": 0,
       "owner": "rescript-lang",
       "repo": "awesome-rescript",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome-list",
         "rescript"

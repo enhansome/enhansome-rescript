@@ -175,7 +175,7 @@
                     "open_issues": 28,
                     "owner": "giraud",
                     "repo": "reasonml-idea-plugin",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": [
                       "idea-plugin",
                       "intellij",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:52:16.020Z",
+    "last_updated": "2026-11-10T15:51:44.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

@@ -87,7 +87,7 @@
                 "id": 407049958,
                 "language": "ReScript",
                 "license": null,
-                "last_commit": "2026-10-12T20:40:06Z",
+                "last_commit": "2026-11-15T10:05:50Z",
                 "open_issues": 4,
                 "owner": "rescript-lang",
                 "repo": "create-rescript-app",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:34:43.111Z",
+    "last_updated": "2026-11-15T15:01:44.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

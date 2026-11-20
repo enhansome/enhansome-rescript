@@ -175,7 +175,7 @@
                     "open_issues": 28,
                     "owner": "giraud",
                     "repo": "reasonml-idea-plugin",
-                    "stars": 349,
+                    "stars": 348,
                     "topics": [
                       "idea-plugin",
                       "intellij",
@@ -250,7 +250,7 @@
                     "open_issues": 3,
                     "owner": "rescript-lang",
                     "repo": "rescript-zed",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:39:18.502Z"
@@ -329,7 +329,7 @@
                 "language": "ReScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-31T10:35:56Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "johnridesabike",
                 "repo": "coronate",
                 "stars": 178,
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:51:45.603Z",
+    "last_updated": "2026-11-20T16:27:16.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

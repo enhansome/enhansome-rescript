@@ -2,9 +2,9 @@
 
 ![awesome-rescript](https://user-images.githubusercontent.com/18074327/137881925-cb1ffc9e-11ed-45f8-bb72-afa1ae6a6fea.png)
 
-### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,372 | 🐛 104 | 📅 2026-09-02
+### **Awesome ReScript** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,860 | 🐛 103 | 📅 2026-09-02
 
-A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,372 | 🐛 104 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
+A collection of awesome things about the ReScript programming language and toolchain. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,860 | 🐛 103 | 📅 2026-09-02 list thing. [Contributions](#contribute) are always welcome.
 
 **NOTE**: This repository is mainly for ReScript materials where the source code is ReScript (`.res` and `.resi` files). For materials written in ReasonML, please use the [awesome-reasonml](https://github.com/vramana/awesome-reasonml) ⭐ 1,473 | 🐛 2 | 📅 2024-06-21 repository.
 
@@ -120,10 +120,10 @@ If no bindings exist yet, you can generate a starting point from the library's T
 
 #### General ReScript language support
 
-* [IDEA](https://github.com/giraud/reasonml-idea-plugin) ⭐ 349 | 🐛 28 | 🌐 Java | 📅 2026-02-17
+* [IDEA](https://github.com/giraud/reasonml-idea-plugin) ⭐ 348 | 🐛 28 | 🌐 Java | 📅 2026-02-17
 * [VIM-ReScript](https://github.com/rescript-lang/vim-rescript) ⭐ 164 | 🐛 12 | 🌐 Vim Script | 📅 2026-08-08
 * [Emacs](https://github.com/reasonml-editor/reason-mode) ⭐ 121 | 🐛 16 | 🌐 Emacs Lisp | 📅 2023-04-05
-* [Zed](https://github.com/humaans/rescript-zed) ⭐ 27 | 🐛 3 | 🌐 Tree-sitter Query | 📅 2026-05-09
+* [Zed](https://github.com/humaans/rescript-zed) ⭐ 28 | 🐛 3 | 🌐 Tree-sitter Query | 📅 2026-05-09
 * [ReScript-Sublime](https://github.com/rescript-lang/rescript-sublime) ⭐ 8 | 🐛 2 | 🌐 ReScript | 📅 2021-05-16
 * [ReScript-VSCode](https://marketplace.visualstudio.com/items?itemName=chenglou92.rescript-vscode)
 * [Atom](https://atom.io/packages/ide-rescript)
@@ -165,7 +165,7 @@ Change the keybinding to your liking. Read more about keybindings in VSCode [her
 ### Example Apps
 
 * [ReScript RealWorld example app](https://github.com/jihchi/rescript-react-realworld-example-app) ⭐ 193 | 🐛 2 | 🌐 ReScript | 📅 2026-04-25 - Another Medium.com clone written using ReScript-React. [(demo)](https://rescript-react-realworld-example-app.vercel.app/)
-* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 178 | 🐛 10 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://coronate.netlify.app/)
+* [Coronate](https://github.com/johnridesabike/coronate) ⭐ 178 | 🐛 13 | 🌐 ReScript | 📅 2026-08-31 - A Swiss-style chess tournament manager for the web and desktop, written with ReScript-React. [(web demo)](https://coronate.netlify.app/)
 * [Darklang Editor](https://github.com/darklang/classic-dark/tree/main/client) ⭐ 69 | 🐛 9 | 🌐 ReScript | 📅 2026-11-18 - A programming language, editor, and cloud environment. The editor is in ReScript.
 * [ReScript Game of Life](https://github.com/alanrsoares/rescript-game-of-life) ⭐ 39 | 🐛 4 | 🌐 ReScript | 📅 2024-03-15 - Conway's Game of Life written in ReScript using ReScript-React. [(demo)](https://alanrsoares.github.io/reason-game-of-life/)
 * [Pixel Papercraft Generator Builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) ⭐ 33 | 🐛 26 | 🌐 ReScript | 📅 2024-06-11 - Generator builder for Pixel Papercraft. [(demo)](https://www.pixelpapercraft.com)
@@ -193,4 +193,4 @@ Just fork this repository and add your resources in a pull-request. Please check
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

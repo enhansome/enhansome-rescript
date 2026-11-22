@@ -328,8 +328,8 @@
                 "id": 176090008,
                 "language": "ReScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-31T10:35:56Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-22T00:11:14Z",
+                "open_issues": 11,
                 "owner": "johnridesabike",
                 "repo": "coronate",
                 "stars": 178,
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:41:21.784Z",
+    "last_updated": "2026-11-22T15:43:59.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",

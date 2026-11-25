@@ -361,7 +361,7 @@
                 "open_issues": 9,
                 "owner": "darklang",
                 "repo": "classic-dark",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "editor"
                 ]
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:08:10.024Z",
+    "last_updated": "2026-11-25T18:13:51.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of materials about the ReScript programming language and toolchain.",
